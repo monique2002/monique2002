@@ -1,6 +1,6 @@
 ### Olá, sou a Monique Correia!! 👩🏽‍💻
 
-- 🔭 Sou estagiária na área de front-end.
+- 🔭 Sou desenvolvedora na área de front-end.
 - 🌱 Atualmente estudo React JS e Angular JS.
 - 🎓 Cursando análise e desenvolvimento de sistemas.
 
